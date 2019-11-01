@@ -1,6 +1,6 @@
-# booking_bus_app
+# Bus Booking App
 
-A new Flutter application.
+An app for booking bus seat.
 
 ## Getting Started
 
