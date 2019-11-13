@@ -93,8 +93,8 @@ class myAppState extends State<myApp> with SingleTickerProviderStateMixin {
 
                     // default text style
                     children: <TextSpan>[
-                      TextSpan(text: ' Powerd By ', style: TextStyle(fontSize: 10.0,fontWeight: FontWeight.normal,color: Colors.black,fontFamily:'Ubuntu')),
-                      TextSpan(text: 'Hepta Tech supporters', style: TextStyle(fontSize: 10.0,fontWeight: FontWeight.bold,color: Colors.orange,fontFamily:'Ubuntu')),
+                      TextSpan(text: ' Powered By ', style: TextStyle(fontSize: 10.0,fontWeight: FontWeight.normal,color: Colors.black,fontFamily:'Ubuntu')),
+                      TextSpan(text: 'Eddy', style: TextStyle(fontSize: 10.0,fontWeight: FontWeight.bold,color: Colors.orange,fontFamily:'Ubuntu')),
 
                     ],
                   ),
